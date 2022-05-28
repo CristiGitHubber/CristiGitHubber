@@ -2,8 +2,4 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a discord raider bot
-
-<!---
-CristiGitHubber/CristiGitHubber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I'm making scripts only to be tested in vm! They can delete your C:/Windows or crash your pc and when restarting it , it's worse so yea . YOU HAVE BEEN WARNED ABOUT "SCRIPTS.ZIP" IM NOT RESPONSABLE FOR ANY DAMAGE ON YOUR MAIN COMPUTER.
