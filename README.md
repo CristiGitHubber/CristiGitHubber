@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @CristiGitHubber
+- 👋 Hi, I’m CGCristi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning javascript
 - 💞️ I'm making scripts only to be tested in vm! They can delete your C:/Windows or crash your pc and when restarting it , it's worse so yea . YOU HAVE BEEN WARNED ABOUT "SCRIPTS.ZIP" IM NOT RESPONSABLE FOR ANY DAMAGE ON YOUR MAIN COMPUTER.
-- 💞️ I’m looking to collaborate on a discord raider bot
+- 💞️ I’m looking to collaborate on an Android OS, Linux Based OS & Windows Based OS
+- 🔥 TechTok is so toxic, #RepairTechtok.
